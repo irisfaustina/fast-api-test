@@ -1,0 +1,5 @@
+#kind of like package.json
+
+fastapi
+uvicorn
+pydantic
